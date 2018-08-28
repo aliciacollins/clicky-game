@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/NYY.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/Boston.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/Cleveland.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/Cubs.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/DiamondBacks.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/SanDiego.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/SanFran.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/Seattle.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/Washington.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/Dogers.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/Phillies.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/Royals.png",
+      "clicked": false
+    }
+  ]
+  
